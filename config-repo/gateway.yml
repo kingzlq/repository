@@ -3,7 +3,7 @@ server:
 
 management:
   security:
-    enabled: true
+    enabled: false
 
 hystrix:
   command:
